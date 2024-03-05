@@ -46,22 +46,6 @@ Take a look at the live project deployed on Netlify
 
 ## Preview
 
-**DESKTOP ------------------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/LandingPage-TailwindCSS/assets/79264045/00db401e-5fcd-4c02-a449-f20251093082" width="60%">
-
-<img src="https://github.com/Sky-De/LandingPage-TailwindCSS/assets/79264045/59d7da70-859b-4642-b02f-0bebff8f6e51" width="60%">
-
-<img src="https://github.com/Sky-De/LandingPage-TailwindCSS/assets/79264045/8645810d-0fee-428b-8e8a-0550fdaa9504" width="60%">
-
-
-**MOBILE ----------------------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/LandingPage-TailwindCSS/assets/79264045/870f7953-90cb-463c-b00b-352f654f0c0a" width="300">
-<img src="https://github.com/Sky-De/LandingPage-TailwindCSS/assets/79264045/5488303e-5092-469f-ab73-b2bf44e31ee6" width="300">
-
-
-
 
 
 ![line]
@@ -93,7 +77,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/LandingPage-TailwindCSS
+git clone https://github.com/Ghassan-SkyDe/LandingPage-TailwindCSS
 
 # Change directory
 cd your-repo-name
@@ -106,13 +90,8 @@ npm run dev
 ```
 ![line]
 
-[line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**SkyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)
